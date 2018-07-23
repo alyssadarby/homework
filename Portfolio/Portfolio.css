@@ -1,0 +1,114 @@
+*{
+ margin: 0px;
+ padding: 0px;
+ background-color: #f6f6f6;
+ font-size: 24px;
+}
+.wrapper{
+ width: 1450px;
+ height: 1400px;
+ background: radial-gradient(circle, #6e5964, #554049, #1f0f13);
+ margin: 10px;
+}
+.header{
+ margin: 20px;
+ display: inline;
+ font-size: 66px;
+ margin-left: 40px;
+}
+.tagline{
+ display: inline;
+ text-align: right;
+ font-size: 45px;
+ margin-left: 450px;
+}
+.photo_woman{
+ width: 50%;
+ margin: 30px;
+ border: 7px solid #f6f6f6;
+ display: inline-block;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+.aboutme{
+ width: 580px;
+ height: 485px;
+ margin: 30px;
+ display: inline-block;
+ vertical-align: top;
+}
+.section_header{
+	background-color: silver;
+	background: linear-gradient(#aeaeb2, #888695, #aeaeb2);
+	color: white;
+	font-size: 36px;
+	font:"ariel";
+	text-indent: 10px;
+	padding: 10px;
+}
+.general_text{
+	text-indent: 10px;
+	font-size: 26px;
+	height: 200px;
+	margin: 10px;
+}
+.project{
+ width: 415px;
+ min-height: 490px;
+ margin: 15px;
+ margin-left: 40px;
+ display: inline-block;
+ vertical-align: top;
+}
+.icon{
+ width: 60px;
+ margin: 5px;
+}
+.button{
+    background-color: #417d5e; /* Green */
+    border: none;
+    color: white;
+    padding: 6px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 142px;
+    box-shadow: 6px 6px 6px 0 rgba(0,0,0,0.2), 0 6px 6px 0 rgba(0,0,0,0.20);
+    border-radius: 8px;
+    border: 1px solid black;
+}
+.footer{
+ width: 1480px;
+ height: 55px;
+ background color: silver;
+ display: center;
+ font-size: 38px;
+ text-align: center;
+}
+.footer2{
+ width: 1450px;
+ height: 50px;
+ background color: silver;
+ display: inline;
+ font-size: 36px;
+ margin-left: 368px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
